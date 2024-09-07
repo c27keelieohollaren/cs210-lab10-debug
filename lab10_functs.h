@@ -9,4 +9,6 @@
  * Complete the tasks outlined in the lab writeup.
 */
 
-double convertTemperature(int);
+
+int findLargest(int n1, int n2, int n3);
+double convertTemperature(double fahrenheit);
